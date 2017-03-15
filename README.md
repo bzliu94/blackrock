@@ -5,5 +5,6 @@ A collection of challenge solutions.
 2. problem #2 - fixed-income security trade allocation
 3. problem #7 - trade analysis, with alternate solution
 4. problem #5 - employee stock grants
+5. problem #6 - audit sale
 
 
